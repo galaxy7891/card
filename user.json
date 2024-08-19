@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Shandy",
+        "email": "shandy123@gmail.com",
+        "username": "shandywkwk",
+        "phone": "089657657565",
+        "address": {
+            "street": "jalan slamet",
+            "city": "Tembalang"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Xaviera",
+        "email": "xavieraaa@gmail.com",
+        "username": "xavierans",
+        "phone": "089657657545",
+        "address": {
+            "street": "jalan hati-hati",
+            "city": "Tembalang"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Kadit",
+        "email": "kadits@gmail.com",
+        "username": "kaditabc",
+        "phone": "089639657545",
+        "address": {
+            "street": "jalan becareful",
+            "city": "Tembalang"
+        }
+    }
+]
